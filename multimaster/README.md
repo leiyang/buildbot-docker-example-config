@@ -26,3 +26,4 @@ You can run this by using for example 4 masters
     docker-compose up -d
     docker-compose scale buildbot=4
 test
+test
